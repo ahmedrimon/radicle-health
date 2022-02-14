@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Faktum Test';
+  src: url('../../Font/faktum.otf');
+}
+.navbar {
+  font-family: 'Faktum Test';
+}
+.nav-link {
+  font-size: 1.2rem;
+}
+.nav-link:hover {
+  color: #509b7a !important;
+}

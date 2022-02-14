@@ -1,0 +1,73 @@
+@font-face {
+  font-family: 'Nib Pro';
+  src: url('../../../Font/nibpro.ttf');
+}
+.hero-container {
+  margin-top: 8em;
+  height: 80vh;
+}
+.first-part-container {
+  margin-top: 18em;
+  width: 100%;
+}
+.hero-text {
+  font-family: 'Nib Pro';
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 61px;
+}
+.hero-para {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Faktum Test';
+  width: 100%;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 33px;
+  margin-top: 2em;
+}
+.second-part-container {
+  margin-top: 2em;
+}
+.hero-image {
+  margin-top: 2em;
+  max-width: 130%;
+  /* width: auto;
+  height: auto; */
+}
+@media screen and (max-width: 1199.98px) {
+  .hero-image {
+    margin-top: 7em;
+  }
+}
+@media screen and (max-width: 991.98px) {
+  .hero-container {
+    margin-top: 0%;
+  }
+  .hero-image {
+    margin-top: 10rem;
+  }
+}
+@media screen and (max-width: 767.98px) {
+  .hero-container {
+    margin-top: 0%;
+    height: 130vh;
+  }
+  .hero-image {
+    margin-top: 0.1rem;
+  }
+}
+@media screen and (max-width: 575.98px) {
+  .hero-container {
+    margin-top: 0%;
+  }
+  .hero-image {
+    margin-top: 0em;
+  }
+}
+@media screen and (min-width: 576px) {
+  .hero-container {
+    margin-top: 0%;
+  }
+}

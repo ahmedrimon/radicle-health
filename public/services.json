@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Modern care management",
+    "image": "https://i.ibb.co/p1hNCDy/old.png",
+    "description": "Comprehensive care planning and tracking, powerful population health tools, and Health Home billing automation."
+  },
+  {
+    "id": 2,
+    "name": "Federally certified EHR",
+    "image": "https://i.ibb.co/cw0Hr7f/boy.png",
+    "description": "Configurable EHR software offering case management, client tracking, treatment planning, billing, and more."
+  },
+  {
+    "id": 3,
+    "name": "Behavioral Health",
+    "image": "https://i.ibb.co/r2YQrft/app.png",
+    "description": "Exym serves agencies across California with its intuitive and robust behavioral health EHR system."
+  },
+  {
+    "id": 4,
+    "name": "Modernizing Case Management",
+    "image": "https://i.ibb.co/BqhFJJh/earth.png",
+    "description": "Exym serves agencies across California with its intuitive and robust behavioral health EHR system."
+  },
+  {
+    "id": 5,
+    "name": "Food Insecurity",
+    "image": "https://i.ibb.co/Lg2bb6s/food.png",
+    "description": "Link2Feed helps nonprofit agencies focused on poverty relief or food insecurity with technology "
+  },
+  {
+    "id": 6,
+    "name": "Integrated billing",
+    "image": "https://i.ibb.co/F0f7Dxz/billing.png",
+    "description": "Our software connects directly with Medi-Cal and other payers, including LADMH, so that."
+  }
+]

@@ -1,0 +1,17 @@
+.footerupper-container {
+  font-family: 'Nib Pro';
+}
+.btn-footer {
+  width: 50%;
+}
+.footer-btn {
+  font-size: 18px;
+  line-height: 25px;
+  font-family: 'Faktum';
+  font-weight: 700;
+  padding: 12px 69px;
+  border: 2px solid #509b7a;
+  background: #ffffff;
+  color: #509b7a;
+  border-radius: 100px;
+}

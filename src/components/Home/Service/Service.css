@@ -1,0 +1,15 @@
+/* .card {
+  width: 100%;
+} */
+/* @media (max-width: 1199.98px) {
+  .card {
+    display: flex;
+    flex-wrap: wrap;
+  }
+} */
+.service {
+  background-color: #f8f9fa;
+}
+.card-image {
+  width: 50%;
+}
